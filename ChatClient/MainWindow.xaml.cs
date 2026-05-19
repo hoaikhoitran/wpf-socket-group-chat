@@ -1,4 +1,5 @@
-﻿using System.Net.Sockets;
+﻿using System.IO;
+using System.Net.Sockets;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -133,8 +134,7 @@ public partial class MainWindow : Window
         img.Width = 150;
         img.Height = 150;
 
-        string path =
-            $"D:/PRN212_SE1935/SocketChatApp/ChatClient/Stickers/{stickerName}.png";
+        string path = Path.Combine(AppContext.BaseDirectory, "Stickers", $"{stickerName}.png");
 
         BitmapImage bitmap = new BitmapImage();
 

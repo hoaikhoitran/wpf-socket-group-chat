@@ -1,0 +1,2 @@
+D:\PRN212_SE1935\SocketChatApp\ChatServer\bin\Debug\net8.0\ChatServer.exe
+D:\PRN212_SE1935\SocketChatApp\ChatServer\bin\Debug\net8.0\ChatServer.dll
