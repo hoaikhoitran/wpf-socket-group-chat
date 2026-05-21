@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\PRN212_SE1935\\SocketChatApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|d:\\prn212_se1935\\socketchatapp\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|d:\\prn212_se1935\\socketchatapp\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37E5F391-66C2-4A5F-B61E-65DB929E573D}|ChatServer\\ChatServer.csproj|d:\\prn212_se1935\\socketchatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37E5F391-66C2-4A5F-B61E-65DB929E573D}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|d:\\prn212_se1935\\socketchatapp\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{03D9B724-C043-4BC0-90DA-6419383C491D}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,31 +34,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212_SE1935\\SocketChatApp\\ChatClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml",
               "ToolTip": "D:\\PRN212_SE1935\\SocketChatApp\\ChatClient\\MainWindow.xaml",
               "RelativeToolTip": "ChatClient\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-16T17:46:51.965Z"
+              "WhenOpened": "2026-05-16T17:46:51.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212_SE1935\\SocketChatApp\\ChatClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
               "ToolTip": "D:\\PRN212_SE1935\\SocketChatApp\\ChatClient\\MainWindow.xaml.cs",
               "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAADwv4cAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-16T17:46:51.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN212_SE1935\\SocketChatApp\\ChatServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatServer\\Program.cs",

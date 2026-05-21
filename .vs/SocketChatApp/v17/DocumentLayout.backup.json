@@ -41,8 +41,7 @@
               "ToolTip": "D:\\PRN212_SE1935\\SocketChatApp\\ChatClient\\MainWindow.xaml",
               "RelativeToolTip": "ChatClient\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-16T17:46:51.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T17:46:51.965Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "ChatServer\\Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T17:46:31.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-16T17:46:31.308Z"
             }
           ]
         }
